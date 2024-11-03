@@ -1,4 +1,4 @@
 # notes
 ## Grade 8
 ### MN • Geometry
-[Unit 1](/hi.md)
+[Unit 1](hi.md)
